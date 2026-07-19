@@ -1,0 +1,579 @@
+==========================================
+YHMH SPY — Full Export
+PlaceId: 662417684
+Player: LouisLaine2
+UserId: 3560077255
+Game: ❓ LUCKY BLOCKS Battlegrounds
+Time: 2026-07-18 21:42:50
+Remotes captured: 0
+==========================================
+
+=== CAPTURED REMOTES ===
+
+=== REMOTE FIRE COUNTS ===
+
+=== PLAYER DATA: LouisLaine2 ===
+Players.LouisLaine2.PlayerScripts.PlayerModule.CameraModule.MouseLockController.BoundKeys [StringValue] = LeftShift,RightShift
+Players.LouisLaine2.PlayerGui.Spawn [StringValue] = 
+Players.LouisLaine2.PlayerGui.SpawnCFrame [CFrameValue] = 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1
+Players.LouisLaine2.PlayerGui.SurfaceUI.RainbowBlockBuy.Button.TriggerButton.LocalScript.ID [NumberValue] = 4358221
+Players.LouisLaine2.PlayerGui.SurfaceUI.GalaxyBlockBuy.Button.TriggerButton.LocalScript.ID [NumberValue] = 8110784
+Players.LouisLaine2.PlayerGui.SurfaceUI.DiamondBlockBuy.Button.TriggerButton.LocalScript.ID [NumberValue] = 2543874
+Players.LouisLaine2.PlayerGui.SurfaceUI.SuperBlockBuy.Button.TriggerButton.LocalScript.ID [NumberValue] = 2544777
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenBuy.Button.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton1.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton2.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton3.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton4.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton8.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton7.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton6.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton5.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton9.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton10.Frame.SkipButton.TriggerButton.LocalScript.ID [NumberValue] = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.VoidBlockBuy.Button.TriggerButton.LocalScript.ID [NumberValue] = 18063868
+Players.LouisLaine2.PlayerGui.TopbarStandardClipped.ClippedContainer.Caption.ClippedClone [ObjectValue] = Caption
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Left.Inventory.IconButton.Menu.IconSpot.ClickRegion.Caption.OriginalInstance [ObjectValue] = Caption
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Left.Inventory.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale [NumberValue] = 1
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Left.music_toggle.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale [NumberValue] = 0.5
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Left.OverflowLeft.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale [NumberValue] = 0.5
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Right.Widget.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale [NumberValue] = 0.5
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Right.OverflowRight.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale [NumberValue] = 0.5
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.HumanoidRootPart.RootRigAttachment.OriginalPosition [Vector3Value] = 0, -0.3499999940395355, 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.HumanoidRootPart.OriginalSize [Vector3Value] = 2, 2, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.HumanoidRootPart.RootAttachment.OriginalPosition [Vector3Value] = 0, 0, 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftHand.LeftWristRigAttachment.OriginalPosition [Vector3Value] = 0.00047898292541503906, 0.12504540383815765, 5.960464477539063e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftHand.LeftGripAttachment.OriginalPosition [Vector3Value] = 0, -0.14995451271533966, -1.4630612099608697e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftHand.OriginalSize [Vector3Value] = 1, 0.30010032653808594, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightHand.RightWristRigAttachment.OriginalPosition [Vector3Value] = 3.5762786865234375e-07, 0.12504540383815765, 5.960464477539063e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightHand.RightGripAttachment.OriginalPosition [Vector3Value] = 0, -0.14995451271533966, -1.4630612099608697e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightHand.OriginalSize [Vector3Value] = 1, 0.30010032653808594, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition [Vector3Value] = 0.0004786252975463867, 0.25868821144104004, 7.644625506630354e-20
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerArm.LeftWristRigAttachment.OriginalPosition [Vector3Value] = 0.0004786252975463867, -0.5009286999702454, 7.644625506630354e-20
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerArm.OriginalSize [Vector3Value] = 1, 1.0518989562988281, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerArm.RightElbowRigAttachment.OriginalPosition [Vector3Value] = 1.1920928955078125e-07, 0.2585794925689697, 7.644625506630354e-20
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerArm.RightWristRigAttachment.OriginalPosition [Vector3Value] = 1.1920928955078125e-07, -0.5009286999702454, -6.862447526056303e-18
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerArm.OriginalSize [Vector3Value] = 1, 1.0518989562988281, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition [Vector3Value] = 0.5000003576278687, 0.39432668685913086, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition [Vector3Value] = 0.5000003576278687, 0.39432668685913086, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition [Vector3Value] = 0.0004792213439941406, -0.33405637741088867, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.LeftShoulderAttachment.OriginalPosition [Vector3Value] = 2.384185791015625e-07, 0.5843266248703003, -2.7096831445305725e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.OriginalSize [Vector3Value] = 1, 1.1686992645263672, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.RightShoulderRigAttachment.OriginalPosition [Vector3Value] = -0.5000007152557373, 0.39432668685913086, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition [Vector3Value] = -0.5000007152557373, 0.39432668685913086, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.RightElbowRigAttachment.OriginalPosition [Vector3Value] = -5.960464477539062e-07, -0.334165096282959, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.RightShoulderAttachment.OriginalPosition [Vector3Value] = -8.344650268554688e-07, 0.5843266248703003, -2.7096831445305725e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.OriginalSize [Vector3Value] = 1, 1.1686992645263672, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftFoot.LeftAnkleRigAttachment.OriginalPosition [Vector3Value] = -1.7881393432617188e-07, 0.10193967819213867, -0.0000017222776023118058
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftFoot.LeftFootAttachment.OriginalPosition [Vector3Value] = 0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftFoot.OriginalSize [Vector3Value] = 1, 0.2999992370605469, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition [Vector3Value] = 2.9802322387695312e-08, 0.3790184259414673, -1.6086059417830256e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition [Vector3Value] = -1.1920928955078125e-07, -0.5471571683883667, -0.0000022140159217087785
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerLeg.OriginalSize [Vector3Value] = 1, 1.1930999755859375, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.WaistRigAttachment.OriginalPosition [Vector3Value] = -5.960464477539063e-08, -0.7999857068061829, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.NeckRigAttachment.OriginalPosition [Vector3Value] = -5.960464477539063e-08, 0.8000171184539795, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.LeftShoulderRigAttachment.OriginalPosition [Vector3Value] = -1, 0.5630171298980713, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition [Vector3Value] = -1, 0.5630171298980713, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.RightShoulderRigAttachment.OriginalPosition [Vector3Value] = 0.9999999403953552, 0.5630171298980713, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition [Vector3Value] = 0.9999999403953552, 0.5630171298980713, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.BodyFrontAttachment.OriginalPosition [Vector3Value] = -5.960464477539063e-08, -0.19998568296432495, -0.49999988079071045
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.BodyBackAttachment.OriginalPosition [Vector3Value] = -5.960464477539063e-08, -0.19998568296432495, 0.5
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.LeftCollarAttachment.OriginalPosition [Vector3Value] = -0.9999998807907104, 0.8000169992446899, -7.273973778865184e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.NeckAttachment.OriginalPosition [Vector3Value] = -5.058594965134944e-08, 0.8000171184539795, 7.111724187325308e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.RightCollarAttachment.OriginalPosition [Vector3Value] = 0.9999999403953552, 0.8000167608261108, 4.612959969563235e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.OriginalSize [Vector3Value] = 2, 1.6000003814697266, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition [Vector3Value] = 5.960464477539063e-08, 0.4207821488380432, -1.6391277313232422e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition [Vector3Value] = 8.940696716308594e-08, -0.40110236406326294, -4.290814956675604e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperLeg.OriginalSize [Vector3Value] = 1, 1.2166004180908203, 0.9998989105224609
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightFoot.RightAnkleRigAttachment.OriginalPosition [Vector3Value] = -0, 0.10193955898284912, 0.00007644779543625191
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightFoot.RightFootAttachment.OriginalPosition [Vector3Value] = -0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightFoot.OriginalSize [Vector3Value] = 1, 0.2999992370605469, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerLeg.RightKneeRigAttachment.OriginalPosition [Vector3Value] = -0, 0.37917429208755493, 0.000025553606974426657
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition [Vector3Value] = -0, -0.5471571683883667, 0.00007626898150192574
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerLeg.OriginalSize [Vector3Value] = 1, 1.1930999755859375, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.RootRigAttachment.OriginalPosition [Vector3Value] = -1.1920928955078125e-07, -0.1999722570180893, -0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.WaistRigAttachment.OriginalPosition [Vector3Value] = -1.1920928955078125e-07, 0.20002491772174835, 7.644625506630354e-20
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.LeftHipRigAttachment.OriginalPosition [Vector3Value] = -0.5000001192092896, -0.1999722570180893, -0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.RightHipRigAttachment.OriginalPosition [Vector3Value] = 0.49999988079071045, -0.1999722570180893, -0.00001912085645017214
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.WaistBackAttachment.OriginalPosition [Vector3Value] = -1.4641321399722074e-07, -0.1999722570180893, 0.5000000596046448
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.WaistCenterAttachment.OriginalPosition [Vector3Value] = -4.220008804622921e-07, -0.1999722570180893, -1.6543612251060553e-24
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.WaistFrontAttachment.OriginalPosition [Vector3Value] = -1.3221986705502786e-07, -0.1999722570180893, -0.5000000596046448
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.OriginalSize [Vector3Value] = 2, 0.4001007080078125, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperLeg.RightHipRigAttachment.OriginalPosition [Vector3Value] = -0, 0.42078226804733276, -0.0000667300628265366
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperLeg.RightKneeRigAttachment.OriginalPosition [Vector3Value] = -0, -0.4009464979171753, -0.000021876789105590433
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperLeg.OriginalSize [Vector3Value] = 1, 1.2166004180908203, 0.9998989105224609
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyTypeScale [NumberValue] = 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyProportionScale [NumberValue] = 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyWidthScale [NumberValue] = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyHeightScale [NumberValue] = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyDepthScale [NumberValue] = 0.9300000071525574
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.HeadScale [NumberValue] = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.cheer [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.swimidle [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance.Animation1.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance.Animation2.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance.Animation3.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance2 [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance2.Animation1.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance2.Animation2.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance2.Animation3.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance3 [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance3.Animation1.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance3.Animation2.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance3.Animation3.Weight [NumberValue] = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.run [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.climb [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.fall [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.laugh [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.point [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.sit [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.toollunge [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.toolnone [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.toolslash [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.wave [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.ScaleDampeningPercent [NumberValue] = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.walk [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.jump [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.swim [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.pose [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.pose.CartoonyPose.Weight [NumberValue] = 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.idle [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.idle.Animation1.Weight [NumberValue] = 9
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.idle.Animation2.Weight [NumberValue] = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.mood [StringValue] = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.FaceFrontAttachment.OriginalPosition [Vector3Value] = 3.089527793517235e-16, -0.014311075210571289, -0.594894528388977
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.HatAttachment.OriginalPosition [Vector3Value] = 3.8502382896278694e-16, 0.606856107711792, -0.00023469328880310059
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.HairAttachment.OriginalPosition [Vector3Value] = 3.8502382896278694e-16, 0.606856107711792, -0.00023469328880310059
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.FaceCenterAttachment.OriginalPosition [Vector3Value] = 2.992158973950189e-16, -0.09381890296936035, -0.00023469328880310059
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.NeckRigAttachment.OriginalPosition [Vector3Value] = 2.3896427333489317e-16, -0.5858105421066284, -0.00023469328880310059
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.AvatarPartScaleType [StringValue] = Classic
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.OriginalSize [Vector3Value] = 1.1978399753570557, 1.2024002075195312, 1.1987805366516113
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Moon Lord.Handle.AvatarPartScaleType [StringValue] = Classic
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Moon Lord.Handle.BodyBackAttachment.OriginalPosition [Vector3Value] = 0.2616018056869507, -0.2637789845466614, -0.1734103560447693
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Moon Lord.Handle.OriginalSize [Vector3Value] = 5.976968765258789, 5.935091018676758, 0.46077555418014526
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Axolotl Friend.Handle.AvatarPartScaleType [StringValue] = Classic
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Axolotl Friend.Handle.RightCollarAttachment.OriginalPosition [Vector3Value] = -0.447998046875, -0.9746404886245728, -0.00832453090697527
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Axolotl Friend.Handle.OriginalSize [Vector3Value] = 1.0738768577575684, 0.8982863426208496, 1.3180716037750244
+Players.LouisLaine2.data_ready [BoolValue] = true
+Players.LouisLaine2.Yes [StringValue] = 
+Players.LouisLaine2.Spawn [StringValue] = Spawn1
+Players.LouisLaine2.SpawnCFrame [CFrameValue] = -1312.22253, 193.300201, 205.191513, 1, 0, 0, 0, 1, 0, 0, 0, 1
+Players.LouisLaine2.JoinTime [IntValue] = 1784421752
+Players.LouisLaine2.leaderstats [IntValue] = 0
+Players.LouisLaine2.leaderstats.Minutes [IntValue] = 0
+Players.LouisLaine2.strike_count [NumberValue] = 0
+Players.LouisLaine2.lucky_tag [NumberValue] = 0
+Players.LouisLaine2.super_tag [NumberValue] = 0
+Players.LouisLaine2.diamond_tag [NumberValue] = 0
+Players.LouisLaine2.rainbow_tag [NumberValue] = 0
+Players.LouisLaine2.galaxy_tag [NumberValue] = 0
+
+=== ALL REMOTES IN GAME ===
+1. SpawnLuckyBlock [RemoteEvent] ReplicatedStorage.SpawnLuckyBlock
+2. SpawnSuperBlock [RemoteEvent] ReplicatedStorage.SpawnSuperBlock
+3. SpawnDiamondBlock [RemoteEvent] ReplicatedStorage.SpawnDiamondBlock
+4. SpawnRainbowBlock [RemoteEvent] ReplicatedStorage.SpawnRainbowBlock
+5. RotateCam [RemoteEvent] ReplicatedStorage.RotateCam
+6. sendLeaveData [RemoteEvent] ReplicatedStorage.sendLeaveData
+7. SpawnGalaxyBlock [RemoteEvent] ReplicatedStorage.SpawnGalaxyBlock
+8. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RocketSleigh.SleighScripts.SledScript.ServerControl
+9. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.OverseerSpider.Contents.RidingScript.Remotes.ServerControl
+10. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.OverseerSpider.Contents.RidingScript.Remotes.ClientControl
+11. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RedcliffCharger.Contents.RidingScript.Remotes.ServerControl
+12. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RedcliffCharger.Contents.RidingScript.Remotes.ClientControl
+13. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.RidingScript.Remotes.ServerControl
+14. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.RidingScript.Remotes.ClientControl
+15. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.WesternHorseMount.RidingScript.Remotes.ServerControl
+16. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.WesternHorseMount.RidingScript.Remotes.ClientControl
+17. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.LionMount.Lion.RidingScript.Remotes.ServerControl
+18. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.LionMount.Lion.RidingScript.Remotes.ClientControl
+19. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.DragonMount.Dragon.RidingScript.Remotes.ServerControl
+20. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.DragonMount.Dragon.RidingScript.Remotes.ClientControl
+21. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WolfMount.Wolf.RidingScript.Remotes.ServerControl
+22. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WolfMount.Wolf.RidingScript.Remotes.ClientControl
+23. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BearMount.Bear.RidingScript.Remotes.ClientControl
+24. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BearMount.Bear.RidingScript.Remotes.ServerControl
+25. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.AlpacaMount.Alpaca.RidingScript.Remotes.ServerControl
+26. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.AlpacaMount.Alpaca.RidingScript.Remotes.ClientControl
+27. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantBirdMount.GiantBird.RidingScript.Remotes.ClientControl
+28. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantBirdMount.GiantBird.RidingScript.Remotes.ServerControl
+29. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantEagleMount.GiantEagle.RidingScript.Remotes.ClientControl
+30. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantEagleMount.GiantEagle.RidingScript.Remotes.ServerControl
+31. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BatMount.Bat.RidingScript.Remotes.ServerControl
+32. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BatMount.Bat.RidingScript.Remotes.ClientControl
+33. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.419528946.RidingScript.Remotes.ServerControl
+34. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.419528946.RidingScript.Remotes.ClientControl
+35. PromptSetFavorite [RemoteEvent] ReplicatedStorage.PromptSetFavorite
+36. UpdateCameraAngle [RemoteEvent] ReplicatedStorage.UpdateCameraAngle
+37. RE/UnlockablesVerifyStart [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RE/UnlockablesVerifyStart
+38. NewAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.NewAdEvent
+39. NewPlayerEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.NewPlayerEvent
+40. RE/UnlockablesVerifyComplete [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RE/UnlockablesVerifyComplete
+41. CatalogOnPromptPurchase [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnPromptPurchase
+42. CatalogOnPromptPurchaseOutfit [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnPromptPurchaseOutfit
+43. CatalogOnPurchaseComplete [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnPurchaseComplete
+44. CatalogOnDisplayPopupMessage [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnDisplayPopupMessage
+45. CheckReward [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CheckReward
+46. GetRewards [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetRewards
+47. PlayerReceivedPromoCode [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PlayerReceivedPromoCode
+48. PlayerReceivedReward [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PlayerReceivedReward
+49. catalogItemPromptEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.catalogItemPromptEvent
+50. popupShopItemPromptEvent [BindableEvent] ReplicatedStorage.BloxbizRemotes.popupShopItemPromptEvent
+51. getSubscriptionProductInfo [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getSubscriptionProductInfo
+52. getSubsetClientPlayerStats [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getSubsetClientPlayerStats
+53. getAdStorage [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getAdStorage
+54. getClientLogs [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getClientLogs
+55. marketplaceServiceWrapper [RemoteFunction] ReplicatedStorage.BloxbizRemotes.marketplaceServiceWrapper
+56. PremiumPromptEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PremiumPromptEvent
+57. GetCatalogConfigForPlayer [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetCatalogConfigForPlayer
+58. CatalogOnItemsPageRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnItemsPageRequest
+59. CatalogOnSearchItemsRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnSearchItemsRequest
+60. CatalogOnLoadEmoteRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnLoadEmoteRequest
+61. CatalogOnApplyToRealHumanoid [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnApplyToRealHumanoid
+62. CatalogOnApplyOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnApplyOutfit
+63. CatalogOnSaveOutfit [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnSaveOutfit
+64. CatalogOnDeleteOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnDeleteOutfit
+65. CatalogOnResetOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnResetOutfit
+66. CatalogOnCreateShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnCreateShop
+67. CatalogOnEditShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnEditShop
+68. CatalogOnGetPoses [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetPoses
+69. CatalogOnGetFeatured [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeatured
+70. CatalogOnBoostResult [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnBoostResult
+71. CatalogOnRequestPermissionRemote [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnRequestPermissionRemote
+72. CatalogOnBoostFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnBoostFeed
+73. CatalogOnRequestData [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnRequestData
+74. CatalogOnFeedAction [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnFeedAction
+75. CatalogOnGetFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeed
+76. CatalogOnCreateFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnCreateFeed
+77. CatalogOnGetAllFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetAllFeed
+78. CatalogOnLoadOutfits [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnLoadOutfits
+79. CatalogOnGetFeeds [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeeds
+80. CatalogOnTryOn [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnTryOn
+81. CatalogOnImpression [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnImpression
+82. CatalogTermSearchedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogTermSearchedEvent
+83. CatalogCategoryOpenedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogCategoryOpenedEvent
+84. CatalogItemTryOnEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogItemTryOnEvent
+85. CatalogOpenedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOpenedEvent
+86. OnReplicateData [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnReplicateData
+87. GetCatalogCategories [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetCatalogCategories
+88. CatalogOnRateShop [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnRateShop
+89. CatalogOnGetShopDefinition [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopDefinition
+90. CatalogOnGetShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShop
+91. CatalogOnReportImpression [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnReportImpression
+92. CatalogOnConfirmShopCreation [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnConfirmShopCreation
+93. UserIdlingEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.UserIdlingEvent
+94. VideoPlayedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.VideoPlayedEvent
+95. ImpressionEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.ImpressionEvent
+96. OnSendGuiImpressions [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnSendGuiImpressions
+97. OnRunCommand [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnRunCommand
+98. CatalogOnGetShopFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopFeed
+99. CatalogOnGetShopFeeds [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopFeeds
+100. AdInteractionEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.AdInteractionEvent
+101. DialogueBranchEntryEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.DialogueBranchEntryEvent
+102. Update3DAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.Update3DAdEvent
+103. PreloadAdsEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PreloadAdsEvent
+104. UpdatePortalEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.UpdatePortalEvent
+105. PortalTeleportRequestEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PortalTeleportRequestEvent
+106. Request3dAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.Request3dAdEvent
+107. RequestPortalAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RequestPortalAdEvent
+108. RequestAudioAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RequestAudioAdEvent
+109. PopUpShopEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PopUpShopEvent
+Total: 109
+
+=== ACCUMULATED OUTPUT ===
+
+LouisLaine2 (UserId: 3560077255)
+  ls.Minutes = 0
+  HP: 100/100
+  WS: 16 JP: 50
+
+agustinitammttt (UserId: 10890740781)
+  ls.Minutes = 2
+  HP: 67/100
+  WS: 16 JP: 50
+
+papaleta12677 (UserId: 8881571836)
+  ls.Minutes = 3
+  HP: 100/100
+  WS: 16 JP: 50
+
+lur_qwq (UserId: 1279150830)
+  ls.Minutes = 5
+  HP: 100/100
+  WS: 16 JP: 50
+
+dereksanchewww7 (UserId: 5748606162)
+  ls.Minutes = 4
+  HP: 100/100
+  WS: 16 JP: 50
+
+KingMachapa (UserId: 7170554146)
+  ls.Minutes = 4
+  HP: 100/100
+  WS: 16 JP: 50
+Players.LouisLaine2.PlayerScripts.PlayerModule.CameraModule.MouseLockController.BoundKeys = LeftShift,RightShift
+Players.LouisLaine2.PlayerGui.Spawn = 
+Players.LouisLaine2.PlayerGui.SpawnCFrame = 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1
+Players.LouisLaine2.PlayerGui.SurfaceUI.RainbowBlockBuy.Button.TriggerButton.LocalScript.ID = 4358221
+Players.LouisLaine2.PlayerGui.SurfaceUI.GalaxyBlockBuy.Button.TriggerButton.LocalScript.ID = 8110784
+Players.LouisLaine2.PlayerGui.SurfaceUI.DiamondBlockBuy.Button.TriggerButton.LocalScript.ID = 2543874
+Players.LouisLaine2.PlayerGui.SurfaceUI.SuperBlockBuy.Button.TriggerButton.LocalScript.ID = 2544777
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenBuy.Button.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton1.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton2.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton3.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton4.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton8.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton7.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton6.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton5.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton9.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.RegenButton10.Frame.SkipButton.TriggerButton.LocalScript.ID = 2544515
+Players.LouisLaine2.PlayerGui.SurfaceUI.VoidBlockBuy.Button.TriggerButton.LocalScript.ID = 18063868
+Players.LouisLaine2.PlayerGui.TopbarStandardClipped.ClippedContainer.Caption.ClippedClone = Caption
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Left.Inventory.IconButton.Menu.IconSpot.ClickRegion.Caption.OriginalInstance = Caption
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Left.Inventory.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale = 1
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Left.music_toggle.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale = 0.5
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Left.OverflowLeft.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale = 0.5
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Right.Widget.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale = 0.5
+Players.LouisLaine2.PlayerGui.TopbarStandard.Holders.Right.OverflowRight.IconButton.Menu.IconSpot.Contents.IconImage.IconImageScale = 0.5
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.HumanoidRootPart.RootRigAttachment.OriginalPosition = 0, -0.3499999940395355, 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.HumanoidRootPart.OriginalSize = 2, 2, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.HumanoidRootPart.RootAttachment.OriginalPosition = 0, 0, 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftHand.LeftWristRigAttachment.OriginalPosition = 0.00047898292541503906, 0.12504540383815765, 5.960464477539063e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftHand.LeftGripAttachment.OriginalPosition = 0, -0.14995451271533966, -1.4630612099608697e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftHand.OriginalSize = 1, 0.30010032653808594, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightHand.RightWristRigAttachment.OriginalPosition = 3.5762786865234375e-07, 0.12504540383815765, 5.960464477539063e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightHand.RightGripAttachment.OriginalPosition = 0, -0.14995451271533966, -1.4630612099608697e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightHand.OriginalSize = 1, 0.30010032653808594, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerArm.LeftElbowRigAttachment.OriginalPosition = 0.0004786252975463867, 0.25868821144104004, 7.644625506630354e-20
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerArm.LeftWristRigAttachment.OriginalPosition = 0.0004786252975463867, -0.5009286999702454, 7.644625506630354e-20
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerArm.OriginalSize = 1, 1.0518989562988281, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerArm.RightElbowRigAttachment.OriginalPosition = 1.1920928955078125e-07, 0.2585794925689697, 7.644625506630354e-20
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerArm.RightWristRigAttachment.OriginalPosition = 1.1920928955078125e-07, -0.5009286999702454, -6.862447526056303e-18
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerArm.OriginalSize = 1, 1.0518989562988281, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.LeftShoulderRigAttachment.OriginalPosition = 0.5000003576278687, 0.39432668685913086, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.LeftShoulderRigAttachment.JointRotation.OriginalPosition = 0.5000003576278687, 0.39432668685913086, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.LeftElbowRigAttachment.OriginalPosition = 0.0004792213439941406, -0.33405637741088867, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.LeftShoulderAttachment.OriginalPosition = 2.384185791015625e-07, 0.5843266248703003, -2.7096831445305725e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperArm.OriginalSize = 1, 1.1686992645263672, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.RightShoulderRigAttachment.OriginalPosition = -0.5000007152557373, 0.39432668685913086, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.RightShoulderRigAttachment.JointRotation.OriginalPosition = -0.5000007152557373, 0.39432668685913086, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.RightElbowRigAttachment.OriginalPosition = -5.960464477539062e-07, -0.334165096282959, 8.940696716308594e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.RightShoulderAttachment.OriginalPosition = -8.344650268554688e-07, 0.5843266248703003, -2.7096831445305725e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperArm.OriginalSize = 1, 1.1686992645263672, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftFoot.LeftAnkleRigAttachment.OriginalPosition = -1.7881393432617188e-07, 0.10193967819213867, -0.0000017222776023118058
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftFoot.LeftFootAttachment.OriginalPosition = 0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftFoot.OriginalSize = 1, 0.2999992370605469, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerLeg.LeftKneeRigAttachment.OriginalPosition = 2.9802322387695312e-08, 0.3790184259414673, -1.6086059417830256e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerLeg.LeftAnkleRigAttachment.OriginalPosition = -1.1920928955078125e-07, -0.5471571683883667, -0.0000022140159217087785
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftLowerLeg.OriginalSize = 1, 1.1930999755859375, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.WaistRigAttachment.OriginalPosition = -5.960464477539063e-08, -0.7999857068061829, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.NeckRigAttachment.OriginalPosition = -5.960464477539063e-08, 0.8000171184539795, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.LeftShoulderRigAttachment.OriginalPosition = -1, 0.5630171298980713, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.LeftShoulderRigAttachment.JointRotation.OriginalPosition = -1, 0.5630171298980713, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.RightShoulderRigAttachment.OriginalPosition = 0.9999999403953552, 0.5630171298980713, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.RightShoulderRigAttachment.JointRotation.OriginalPosition = 0.9999999403953552, 0.5630171298980713, 1.1920928955078125e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.BodyFrontAttachment.OriginalPosition = -5.960464477539063e-08, -0.19998568296432495, -0.49999988079071045
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.BodyBackAttachment.OriginalPosition = -5.960464477539063e-08, -0.19998568296432495, 0.5
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.LeftCollarAttachment.OriginalPosition = -0.9999998807907104, 0.8000169992446899, -7.273973778865184e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.NeckAttachment.OriginalPosition = -5.058594965134944e-08, 0.8000171184539795, 7.111724187325308e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.RightCollarAttachment.OriginalPosition = 0.9999999403953552, 0.8000167608261108, 4.612959969563235e-08
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.UpperTorso.OriginalSize = 2, 1.6000003814697266, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperLeg.LeftHipRigAttachment.OriginalPosition = 5.960464477539063e-08, 0.4207821488380432, -1.6391277313232422e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperLeg.LeftKneeRigAttachment.OriginalPosition = 8.940696716308594e-08, -0.40110236406326294, -4.290814956675604e-07
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LeftUpperLeg.OriginalSize = 1, 1.2166004180908203, 0.9998989105224609
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightFoot.RightAnkleRigAttachment.OriginalPosition = -0, 0.10193955898284912, 0.00007644779543625191
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightFoot.RightFootAttachment.OriginalPosition = -0.01827743649482727, -0.15346026420593262, -0.05026386305689812
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightFoot.OriginalSize = 1, 0.2999992370605469, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerLeg.RightKneeRigAttachment.OriginalPosition = -0, 0.37917429208755493, 0.000025553606974426657
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerLeg.RightAnkleRigAttachment.OriginalPosition = -0, -0.5471571683883667, 0.00007626898150192574
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightLowerLeg.OriginalSize = 1, 1.1930999755859375, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.RootRigAttachment.OriginalPosition = -1.1920928955078125e-07, -0.1999722570180893, -0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.WaistRigAttachment.OriginalPosition = -1.1920928955078125e-07, 0.20002491772174835, 7.644625506630354e-20
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.LeftHipRigAttachment.OriginalPosition = -0.5000001192092896, -0.1999722570180893, -0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.RightHipRigAttachment.OriginalPosition = 0.49999988079071045, -0.1999722570180893, -0.00001912085645017214
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.WaistBackAttachment.OriginalPosition = -1.4641321399722074e-07, -0.1999722570180893, 0.5000000596046448
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.WaistCenterAttachment.OriginalPosition = -4.220008804622921e-07, -0.1999722570180893, -1.6543612251060553e-24
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.WaistFrontAttachment.OriginalPosition = -1.3221986705502786e-07, -0.1999722570180893, -0.5000000596046448
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.LowerTorso.OriginalSize = 2, 0.4001007080078125, 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperLeg.RightHipRigAttachment.OriginalPosition = -0, 0.42078226804733276, -0.0000667300628265366
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperLeg.RightKneeRigAttachment.OriginalPosition = -0, -0.4009464979171753, -0.000021876789105590433
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.RightUpperLeg.OriginalSize = 1, 1.2166004180908203, 0.9998989105224609
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyTypeScale = 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyProportionScale = 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyWidthScale = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyHeightScale = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.BodyDepthScale = 0.9300000071525574
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Humanoid.HeadScale = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.cheer = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.swimidle = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance.Animation1.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance.Animation2.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance.Animation3.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance2 = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance2.Animation1.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance2.Animation2.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance2.Animation3.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance3 = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance3.Animation1.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance3.Animation2.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.dance3.Animation3.Weight = 10
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.run = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.climb = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.fall = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.laugh = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.point = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.sit = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.toollunge = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.toolnone = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.toolslash = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.wave = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.ScaleDampeningPercent = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.walk = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.jump = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.swim = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.pose = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.pose.CartoonyPose.Weight = 0
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.idle = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.idle.Animation1.Weight = 9
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.idle.Animation2.Weight = 1
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Animate.mood = 
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.FaceFrontAttachment.OriginalPosition = 3.089527793517235e-16, -0.014311075210571289, -0.594894528388977
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.HatAttachment.OriginalPosition = 3.8502382896278694e-16, 0.606856107711792, -0.00023469328880310059
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.HairAttachment.OriginalPosition = 3.8502382896278694e-16, 0.606856107711792, -0.00023469328880310059
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.FaceCenterAttachment.OriginalPosition = 2.992158973950189e-16, -0.09381890296936035, -0.00023469328880310059
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.NeckRigAttachment.OriginalPosition = 2.3896427333489317e-16, -0.5858105421066284, -0.00023469328880310059
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.AvatarPartScaleType = Classic
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Head.OriginalSize = 1.1978399753570557, 1.2024002075195312, 1.1987805366516113
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Moon Lord.Handle.AvatarPartScaleType = Classic
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Moon Lord.Handle.BodyBackAttachment.OriginalPosition = 0.2616018056869507, -0.2637789845466614, -0.1734103560447693
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Moon Lord.Handle.OriginalSize = 5.976968765258789, 5.935091018676758, 0.46077555418014526
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Axolotl Friend.Handle.AvatarPartScaleType = Classic
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Axolotl Friend.Handle.RightCollarAttachment.OriginalPosition = -0.447998046875, -0.9746404886245728, -0.00832453090697527
+Players.LouisLaine2.PlayerGui.IngameCatalog.Container.PreviewFrame.ViewportFrame.WorldModel.PlayerModel.Axolotl Friend.Handle.OriginalSize = 1.0738768577575684, 0.8982863426208496, 1.3180716037750244
+Players.LouisLaine2.data_ready = true
+Players.LouisLaine2.Yes = 
+Players.LouisLaine2.Spawn = Spawn1
+Players.LouisLaine2.SpawnCFrame = -1312.22253, 193.300201, 205.191513, 1, 0, 0, 0, 1, 0, 0, 0, 1
+Players.LouisLaine2.JoinTime = 1784421752
+Players.LouisLaine2.leaderstats = 0
+Players.LouisLaine2.leaderstats.Minutes = 0
+Players.LouisLaine2.strike_count = 0
+Players.LouisLaine2.lucky_tag = 0
+Players.LouisLaine2.super_tag = 0
+Players.LouisLaine2.diamond_tag = 0
+Players.LouisLaine2.rainbow_tag = 0
+Players.LouisLaine2.galaxy_tag = 0
+REMOTE: SpawnLuckyBlock [RemoteEvent] ReplicatedStorage.SpawnLuckyBlock
+REMOTE: SpawnSuperBlock [RemoteEvent] ReplicatedStorage.SpawnSuperBlock
+REMOTE: SpawnDiamondBlock [RemoteEvent] ReplicatedStorage.SpawnDiamondBlock
+REMOTE: SpawnRainbowBlock [RemoteEvent] ReplicatedStorage.SpawnRainbowBlock
+REMOTE: RotateCam [RemoteEvent] ReplicatedStorage.RotateCam
+REMOTE: sendLeaveData [RemoteEvent] ReplicatedStorage.sendLeaveData
+REMOTE: SpawnGalaxyBlock [RemoteEvent] ReplicatedStorage.SpawnGalaxyBlock
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RocketSleigh.SleighScripts.SledScript.ServerControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.OverseerSpider.Contents.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.OverseerSpider.Contents.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RedcliffCharger.Contents.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RedcliffCharger.Contents.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.WesternHorseMount.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.WesternHorseMount.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.LionMount.Lion.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.LionMount.Lion.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.DragonMount.Dragon.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.DragonMount.Dragon.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WolfMount.Wolf.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WolfMount.Wolf.RidingScript.Remotes.ClientControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BearMount.Bear.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BearMount.Bear.RidingScript.Remotes.ServerControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.AlpacaMount.Alpaca.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.AlpacaMount.Alpaca.RidingScript.Remotes.ClientControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantBirdMount.GiantBird.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantBirdMount.GiantBird.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantEagleMount.GiantEagle.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantEagleMount.GiantEagle.RidingScript.Remotes.ServerControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BatMount.Bat.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BatMount.Bat.RidingScript.Remotes.ClientControl
+REMOTE: ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.419528946.RidingScript.Remotes.ServerControl
+REMOTE: ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.419528946.RidingScript.Remotes.ClientControl
+REMOTE: PromptSetFavorite [RemoteEvent] ReplicatedStorage.PromptSetFavorite
+REMOTE: UpdateCameraAngle [RemoteEvent] ReplicatedStorage.UpdateCameraAngle
+REMOTE: RE/UnlockablesVerifyStart [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RE/UnlockablesVerifyStart
+REMOTE: NewAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.NewAdEvent
+REMOTE: NewPlayerEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.NewPlayerEvent
+REMOTE: RE/UnlockablesVerifyComplete [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RE/UnlockablesVerifyComplete
+REMOTE: CatalogOnPromptPurchase [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnPromptPurchase
+REMOTE: CatalogOnPromptPurchaseOutfit [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnPromptPurchaseOutfit
+REMOTE: CatalogOnPurchaseComplete [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnPurchaseComplete
+REMOTE: CatalogOnDisplayPopupMessage [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnDisplayPopupMessage
+REMOTE: CheckReward [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CheckReward
+REMOTE: GetRewards [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetRewards
+REMOTE: PlayerReceivedPromoCode [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PlayerReceivedPromoCode
+REMOTE: PlayerReceivedReward [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PlayerReceivedReward
+REMOTE: catalogItemPromptEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.catalogItemPromptEvent
+REMOTE: getSubscriptionProductInfo [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getSubscriptionProductInfo
+REMOTE: getSubsetClientPlayerStats [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getSubsetClientPlayerStats
+REMOTE: getAdStorage [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getAdStorage
+REMOTE: getClientLogs [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getClientLogs
+REMOTE: marketplaceServiceWrapper [RemoteFunction] ReplicatedStorage.BloxbizRemotes.marketplaceServiceWrapper
+REMOTE: PremiumPromptEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PremiumPromptEvent
+REMOTE: GetCatalogConfigForPlayer [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetCatalogConfigForPlayer
+REMOTE: CatalogOnItemsPageRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnItemsPageRequest
+REMOTE: CatalogOnSearchItemsRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnSearchItemsRequest
+REMOTE: CatalogOnLoadEmoteRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnLoadEmoteRequest
+REMOTE: CatalogOnApplyToRealHumanoid [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnApplyToRealHumanoid
+REMOTE: CatalogOnApplyOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnApplyOutfit
+REMOTE: CatalogOnSaveOutfit [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnSaveOutfit
+REMOTE: CatalogOnDeleteOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnDeleteOutfit
+REMOTE: CatalogOnResetOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnResetOutfit
+REMOTE: CatalogOnCreateShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnCreateShop
+REMOTE: CatalogOnEditShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnEditShop
+REMOTE: CatalogOnGetPoses [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetPoses
+REMOTE: CatalogOnGetFeatured [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeatured
+REMOTE: CatalogOnBoostResult [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnBoostResult
+REMOTE: CatalogOnRequestPermissionRemote [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnRequestPermissionRemote
+REMOTE: CatalogOnBoostFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnBoostFeed
+REMOTE: CatalogOnRequestData [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnRequestData
+REMOTE: CatalogOnFeedAction [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnFeedAction
+REMOTE: CatalogOnGetFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeed
+REMOTE: CatalogOnCreateFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnCreateFeed
+REMOTE: CatalogOnGetAllFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetAllFeed
+REMOTE: CatalogOnLoadOutfits [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnLoadOutfits
+REMOTE: CatalogOnGetFeeds [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeeds
+REMOTE: CatalogOnTryOn [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnTryOn
+REMOTE: CatalogOnImpression [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnImpression
+REMOTE: CatalogTermSearchedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogTermSearchedEvent
+REMOTE: CatalogCategoryOpenedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogCategoryOpenedEvent
+REMOTE: CatalogItemTryOnEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogItemTryOnEvent
+REMOTE: CatalogOpenedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOpenedEvent
+REMOTE: OnReplicateData [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnReplicateData
+REMOTE: GetCatalogCategories [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetCatalogCategories
+REMOTE: CatalogOnRateShop [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnRateShop
+REMOTE: CatalogOnGetShopDefinition [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopDefinition
+REMOTE: CatalogOnGetShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShop
+REMOTE: CatalogOnReportImpression [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnReportImpression
+REMOTE: CatalogOnConfirmShopCreation [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnConfirmShopCreation
+REMOTE: UserIdlingEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.UserIdlingEvent
+REMOTE: VideoPlayedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.VideoPlayedEvent
+REMOTE: ImpressionEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.ImpressionEvent
+REMOTE: OnSendGuiImpressions [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnSendGuiImpressions
+REMOTE: OnRunCommand [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnRunCommand
+REMOTE: CatalogOnGetShopFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopFeed
+REMOTE: CatalogOnGetShopFeeds [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopFeeds
+REMOTE: AdInteractionEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.AdInteractionEvent
+REMOTE: DialogueBranchEntryEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.DialogueBranchEntryEvent
+REMOTE: Update3DAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.Update3DAdEvent
+REMOTE: PreloadAdsEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PreloadAdsEvent
+REMOTE: UpdatePortalEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.UpdatePortalEvent
+REMOTE: PortalTeleportRequestEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PortalTeleportRequestEvent
+REMOTE: Request3dAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.Request3dAdEvent
+REMOTE: RequestPortalAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RequestPortalAdEvent
+REMOTE: RequestAudioAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RequestAudioAdEvent
+REMOTE: PopUpShopEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PopUpShopEvent
+
+=== END OF EXPORT ===
