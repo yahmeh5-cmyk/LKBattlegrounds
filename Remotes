@@ -1,0 +1,121 @@
+==========================================
+YHMH SPY — Full Export
+PlaceId: 662417684
+Player: LouisLaine2
+UserId: 3560077255
+Game: ❓ LUCKY BLOCKS Battlegrounds
+Time: 2026-07-18 21:53:10
+Remotes captured: 0
+==========================================
+
+=== ALL REMOTES IN GAME ===
+1. SpawnLuckyBlock [RemoteEvent] ReplicatedStorage.SpawnLuckyBlock
+2. SpawnSuperBlock [RemoteEvent] ReplicatedStorage.SpawnSuperBlock
+3. SpawnDiamondBlock [RemoteEvent] ReplicatedStorage.SpawnDiamondBlock
+4. SpawnRainbowBlock [RemoteEvent] ReplicatedStorage.SpawnRainbowBlock
+5. RotateCam [RemoteEvent] ReplicatedStorage.RotateCam
+6. sendLeaveData [RemoteEvent] ReplicatedStorage.sendLeaveData
+7. CatalogOnReportImpression [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnReportImpression
+8. CatalogOnConfirmShopCreation [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnConfirmShopCreation
+9. CatalogOnCreateShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnCreateShop
+10. CatalogOnEditShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnEditShop
+11. CatalogOnRateShop [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnRateShop
+12. CatalogOnGetShopDefinition [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopDefinition
+13. CatalogOnGetShop [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShop
+14. CatalogOnGetShopFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopFeed
+15. CatalogOnGetShopFeeds [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetShopFeeds
+16. CatalogOnGetPoses [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetPoses
+17. CatalogOnGetFeatured [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeatured
+18. GetCatalogCategories [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetCatalogCategories
+19. CatalogOnBoostResult [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnBoostResult
+20. CatalogOnRequestPermissionRemote [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnRequestPermissionRemote
+21. CatalogOnBoostFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnBoostFeed
+22. CatalogOnRequestData [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnRequestData
+23. CatalogOnFeedAction [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnFeedAction
+24. CatalogOnGetFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeed
+25. CatalogOnCreateFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnCreateFeed
+26. CatalogOnGetAllFeed [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetAllFeed
+27. CatalogOnLoadOutfits [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnLoadOutfits
+28. CatalogOnGetFeeds [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnGetFeeds
+29. CatalogOnTryOn [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnTryOn
+30. CatalogOnImpression [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnImpression
+31. CatalogTermSearchedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogTermSearchedEvent
+32. CatalogCategoryOpenedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogCategoryOpenedEvent
+33. CatalogItemTryOnEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogItemTryOnEvent
+34. CatalogOpenedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOpenedEvent
+35. OnReplicateData [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnReplicateData
+36. OnRunCommand [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnRunCommand
+37. OnSendGuiImpressions [RemoteEvent] ReplicatedStorage.BloxbizRemotes.OnSendGuiImpressions
+38. RE/UnlockablesVerifyComplete [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RE/UnlockablesVerifyComplete
+39. RE/UnlockablesVerifyStart [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RE/UnlockablesVerifyStart
+40. GetRewards [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetRewards
+41. CheckReward [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CheckReward
+42. CatalogOnDisplayPopupMessage [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnDisplayPopupMessage
+43. CatalogOnPurchaseComplete [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnPurchaseComplete
+44. CatalogOnPromptPurchaseOutfit [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnPromptPurchaseOutfit
+45. CatalogOnPromptPurchase [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnPromptPurchase
+46. CatalogOnResetOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnResetOutfit
+47. CatalogOnDeleteOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnDeleteOutfit
+48. CatalogOnSaveOutfit [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnSaveOutfit
+49. CatalogOnApplyOutfit [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnApplyOutfit
+50. CatalogOnApplyToRealHumanoid [RemoteEvent] ReplicatedStorage.BloxbizRemotes.CatalogOnApplyToRealHumanoid
+51. CatalogOnLoadEmoteRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnLoadEmoteRequest
+52. CatalogOnSearchItemsRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnSearchItemsRequest
+53. CatalogOnItemsPageRequest [RemoteFunction] ReplicatedStorage.BloxbizRemotes.CatalogOnItemsPageRequest
+54. GetCatalogConfigForPlayer [RemoteFunction] ReplicatedStorage.BloxbizRemotes.GetCatalogConfigForPlayer
+55. PremiumPromptEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PremiumPromptEvent
+56. marketplaceServiceWrapper [RemoteFunction] ReplicatedStorage.BloxbizRemotes.marketplaceServiceWrapper
+57. getClientLogs [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getClientLogs
+58. getAdStorage [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getAdStorage
+59. getSubsetClientPlayerStats [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getSubsetClientPlayerStats
+60. getSubscriptionProductInfo [RemoteFunction] ReplicatedStorage.BloxbizRemotes.getSubscriptionProductInfo
+61. popupShopItemPromptEvent [BindableEvent] ReplicatedStorage.BloxbizRemotes.popupShopItemPromptEvent
+62. catalogItemPromptEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.catalogItemPromptEvent
+63. PlayerReceivedReward [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PlayerReceivedReward
+64. PlayerReceivedPromoCode [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PlayerReceivedPromoCode
+65. PopUpShopEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PopUpShopEvent
+66. RequestAudioAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RequestAudioAdEvent
+67. RequestPortalAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.RequestPortalAdEvent
+68. Request3dAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.Request3dAdEvent
+69. PortalTeleportRequestEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PortalTeleportRequestEvent
+70. UpdatePortalEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.UpdatePortalEvent
+71. PreloadAdsEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.PreloadAdsEvent
+72. Update3DAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.Update3DAdEvent
+73. DialogueBranchEntryEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.DialogueBranchEntryEvent
+74. AdInteractionEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.AdInteractionEvent
+75. NewPlayerEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.NewPlayerEvent
+76. NewAdEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.NewAdEvent
+77. UserIdlingEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.UserIdlingEvent
+78. VideoPlayedEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.VideoPlayedEvent
+79. ImpressionEvent [RemoteEvent] ReplicatedStorage.BloxbizRemotes.ImpressionEvent
+80. SpawnGalaxyBlock [RemoteEvent] ReplicatedStorage.SpawnGalaxyBlock
+81. UpdateCameraAngle [RemoteEvent] ReplicatedStorage.UpdateCameraAngle
+82. PromptSetFavorite [RemoteEvent] ReplicatedStorage.PromptSetFavorite
+83. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RocketSleigh.SleighScripts.SledScript.ServerControl
+84. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.OverseerSpider.Contents.RidingScript.Remotes.ServerControl
+85. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.OverseerSpider.Contents.RidingScript.Remotes.ClientControl
+86. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RedcliffCharger.Contents.RidingScript.Remotes.ServerControl
+87. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.RedcliffCharger.Contents.RidingScript.Remotes.ClientControl
+88. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.RidingScript.Remotes.ServerControl
+89. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.RidingScript.Remotes.ClientControl
+90. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.WesternHorseMount.RidingScript.Remotes.ServerControl
+91. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WesternHorse.Contents.WesternHorseMount.RidingScript.Remotes.ClientControl
+92. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.LionMount.Lion.RidingScript.Remotes.ServerControl
+93. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.LionMount.Lion.RidingScript.Remotes.ClientControl
+94. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.DragonMount.Dragon.RidingScript.Remotes.ServerControl
+95. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.DragonMount.Dragon.RidingScript.Remotes.ClientControl
+96. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WolfMount.Wolf.RidingScript.Remotes.ServerControl
+97. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.WolfMount.Wolf.RidingScript.Remotes.ClientControl
+98. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BearMount.Bear.RidingScript.Remotes.ServerControl
+99. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BearMount.Bear.RidingScript.Remotes.ClientControl
+100. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.AlpacaMount.Alpaca.RidingScript.Remotes.ClientControl
+101. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.AlpacaMount.Alpaca.RidingScript.Remotes.ServerControl
+102. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantBirdMount.GiantBird.RidingScript.Remotes.ServerControl
+103. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantBirdMount.GiantBird.RidingScript.Remotes.ClientControl
+104. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantEagleMount.GiantEagle.RidingScript.Remotes.ServerControl
+105. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.GiantEagleMount.GiantEagle.RidingScript.Remotes.ClientControl
+106. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BatMount.Bat.RidingScript.Remotes.ClientControl
+107. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.191816425.Contents.BatMount.Bat.RidingScript.Remotes.ServerControl
+108. ServerControl [RemoteFunction] ReplicatedStorage.LegacyModules.419528946.RidingScript.Remotes.ServerControl
+109. ClientControl [RemoteFunction] ReplicatedStorage.LegacyModules.419528946.RidingScript.Remotes.ClientControl
+Total: 109
